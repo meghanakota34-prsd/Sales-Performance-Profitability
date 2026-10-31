@@ -51,4 +51,6 @@ To analyze sales, profit, order value, and product quantity, identify business t
 ## Conclusion
 
 This project demonstrates how Power BI transforms sales data into meaningful business insights, helping businesses monitor performance and understand profitability.
+## Dashboard Preview
 
+![Sales Dashboard](<Screenshot 2026-10-31 085039.png>)
